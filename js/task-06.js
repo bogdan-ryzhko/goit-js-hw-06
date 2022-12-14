@@ -12,5 +12,5 @@ const getValidInput = event => {
 	}
 }
 
-validationInputRef.addEventListener('input', getValidInput);
+// validationInputRef.addEventListener('input', getValidInput);
 validationInputRef.addEventListener('blur', getValidInput);
